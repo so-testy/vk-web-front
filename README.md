@@ -1,6 +1,10 @@
 Задание в категории web на 10, 20, 30 и 40 баллов
 https://vk.com/@vezdekod-web-37742 
 
+## Видео демо
+[![Watch the video](https://i.ibb.co/kDCcR6H/Screenshot-at-Apr-10-15-28-27.png)](https://www.youtube.com/watch?v=bAzLp5lkoMo)
+
+
 # Front
 
 ## Project setup
