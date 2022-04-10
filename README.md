@@ -1,4 +1,7 @@
-# web
+Задание в категории web на 10, 20, 30 и 40 баллов
+https://vk.com/@vezdekod-web-37742 
+
+# Front
 
 ## Project setup
 
@@ -18,12 +21,17 @@ npm run serve
 npm run build
 ```
 
-### Lints and fixes files
+# Back
+[Ссылка на репозиторий](https://github.com/so-testy/web-back)
+
+## Project setup
 
 ```
-npm run lint
+npm install
 ```
 
-### Customize configuration
+### Compiles and hot-reloads for development
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+npm run start
+```
